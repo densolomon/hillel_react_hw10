@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/hillel_react_hw9/",
+  base: "/hillel_react_hw10/",
   plugins: [
     react(),
     alias({
